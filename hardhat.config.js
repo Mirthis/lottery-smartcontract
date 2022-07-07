@@ -32,6 +32,10 @@ module.exports = {
       chainId: 31337,
       blockConfirmations: 1,
     },
+    localhost: {
+      chainId: 31337,
+      blockConfirmations: 1,
+    },
     rinkeby: {
       chainId: 4,
       blockConfirmation: 7,
